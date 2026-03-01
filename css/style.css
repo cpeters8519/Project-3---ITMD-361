@@ -77,9 +77,9 @@ nav ul li a:hover {
 }
 
 body.index-page {
-  width: 900px;             
-  margin: 0 auto;          
-  padding: 2rem;
+  width: 95%;
+  margin: 0 auto;
+  padding: 1rem;
   background-color: #e6f2ff;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   border-radius: 8px;
