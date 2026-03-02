@@ -153,3 +153,13 @@ body.page3 {
     font-size: 1.6rem;
   }
 }
+
+body.page4 {
+  width: 95%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  background-color: #ececec; 
+}
