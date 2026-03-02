@@ -7,7 +7,11 @@ function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
     center: hobart,
     zoom: 12,
-	mapTypeControl: false
+	mapTypeControl: true,
+	mapTypeControlOptions: {
+		style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+		position: google.maps.ControlPosition.TOP_RIGHT
+	}
 });
 
 geocoder = new google.maps.Geocoder();
