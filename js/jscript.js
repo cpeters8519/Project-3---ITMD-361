@@ -25,7 +25,6 @@ const infoWindow = new google.maps.InfoWindow({
 marker.addListener("click", () => {
 	infoWindow.open({ anchor: marker, map });
 });
-}
 
 const searchBtn = document.getElementById("search-loc-btn");
   searchBtn.addEventListener("click", () => {
