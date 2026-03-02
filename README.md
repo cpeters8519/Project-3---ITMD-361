@@ -1,4 +1,4 @@
-# Project-2---ITMD-361
+# Project-3---ITMD-361
 Fundamentals of Web Development Projects
 
 This repository contains coursework from the Fundamentals of Web Development class, taught by Professor Daniel Krieglstein and developed with Dr. Karl Stolley. The course covers foundational web development principles, including client-server architecture, HTML, CSS, JavaScript, responsive design, and modern web standards.
