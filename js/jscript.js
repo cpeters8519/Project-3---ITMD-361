@@ -2,7 +2,7 @@ let map;
 let geocoder;
 
 function initMap() {
-  const hobart = { lat: 41.5561, lng: -87.4316 };
+  const hobart = { lat: 41.5322592, lng: -87.2550353 };
   
   map = new google.maps.Map(document.getElementById("map"), {
     center: hobart,
